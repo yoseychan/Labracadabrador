@@ -1,0 +1,63 @@
+body {
+	background-color: gray;
+}
+
+h1 {
+	color: lightgreen;
+	text-align: center;
+}
+
+img {
+    width: 900px;
+	border: 15px solid green;
+	box-sizing: border-box;
+	margin-right: auto;
+	margin-left: auto; 
+	display: block;
+}
+
+h2 {
+	color: darkblue;
+}
+
+p {
+	color: white;
+}
+
+ul {
+	color: gold;
+}
+
+table {
+	background-color: lightgreen;
+    position: absolute;
+    right: 0px;
+    box-sizing: border-box;
+    padding: 2px;
+}
+
+table, tr, th, td {
+	border: 1px solid black;
+}
+
+/*Classes*/
+
+.lightbluetext {
+	color: lightblue;
+	font-size: 1.3em;
+}
+.arial {
+	font-family: "Arial";
+}
+.underlined {
+	text-decoration: underline;
+}
+.italicfont {
+	font-style: italic;	
+}
+.orangetext {
+	color: orange;	
+}
+.bolded {
+	font-weight: 700;
+}
